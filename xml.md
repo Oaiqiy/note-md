@@ -6,7 +6,6 @@ tags: ["xml"]
 categories: ["class"]
 ---
 
-## 70% 20%平时+80%期末  30%实验
 
 ## XSD
 
