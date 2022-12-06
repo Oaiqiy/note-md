@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with: 
-          repository: myriadgenetics/${{ matrix.parent_repo }}
+          repository: Oaiqiy/${{ matrix.parent_repo }}
           token: ${{ secrets.ACTIONS_TOKEN }}
           submodules: 'recursive'
       - name: Pull & update submodules recursively
