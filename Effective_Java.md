@@ -187,4 +187,6 @@ default `toString` method return *class name*@*hash code*
 
 in practical applications `toString` method should return all information worthing attention
 
-### 13 
+### 13 override `clone` cautiously
+
+`Cloneable` interface is a mixin interface meaning the object allow cloning.
